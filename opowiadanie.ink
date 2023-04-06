@@ -5,7 +5,7 @@ Cisza.
 \- Mam dla Ciebie nowe zlecenie. - Otworzył szufladę i wyciągnął zdjęcie czerwonowłosej dziewczyny.
 \- Uśpij ją i przywieź do mnie. Nie będę czekać.
 
- * ZGADZA SIĘ. -> zgadza
+ * ZGADZA SIĘ. ->  zgadza
  * NIE ZGADZA SIĘ. -> nie_zgadza
 
 === zgadza ===
